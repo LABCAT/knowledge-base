@@ -17,3 +17,5 @@ Reload NGINX server:
 ## Setting up Directus Site with Docker and NGINX
 
 https://www.digitalocean.com/community/tutorials/how-to-use-the-docker-1-click-install-on-digitalocean
+
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-22-04
