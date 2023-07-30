@@ -13,3 +13,7 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-
 Reload NGINX server:
 
 ```sudo systemctl reload nginx```
+
+## Setting up Directus Site with Docker and NGINX
+
+https://www.digitalocean.com/community/tutorials/how-to-use-the-docker-1-click-install-on-digitalocean
