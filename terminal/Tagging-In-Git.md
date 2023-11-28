@@ -13,6 +13,7 @@ git tag
 Then create a new tag which doesn’t already exist:
 
 git tag -a 1.0.0 -m "creating tag 1.0.0 - 1st January 2020"
+
 git push origin --tags
 
 ## How to Delete a Tag
