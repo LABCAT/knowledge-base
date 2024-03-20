@@ -12,7 +12,7 @@ git tag
 
 Then create a new tag which doesn’t already exist:
 
-git tag -a 1.0.0 -m "creating tag 1.0.0 - 1st January 2020"
+git tag -a 1.0.0 -m "Creating tag 1.0.0 - 1st January 2024."
 
 git push origin --tags
 
